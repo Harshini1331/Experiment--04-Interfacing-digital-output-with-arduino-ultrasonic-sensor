@@ -1,6 +1,3 @@
-# EX. NO: 4
-# DATE:
-
 # <p align="center">Distance measurement using Ultrasonic sensor</p>
 
 
